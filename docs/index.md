@@ -2,6 +2,13 @@
 layout: default
 ---
 
+This project explores the representation of fatness in the MET API. 
+
+![The Fat Kitchen by Pieter van der Heyden ](main-image.jpeg)
+
+
+<!-- 
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -121,3 +128,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
