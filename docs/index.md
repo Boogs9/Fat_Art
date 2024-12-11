@@ -7,9 +7,28 @@ This project explores the representation of fatness in the MET API.
 ![The Fat Kitchen by Pieter van der Heyden ](main-image.jpeg)
 
 
-Here are some graphs about the distribution of fat art work in the MET's digital collection. 
+Here are some graphs about the distribution of fat artwork in the MET's digital collection. 
 
-![Number of Fat Art Woorks in Each Department ]()
+![Number of Fat Art Woorks in Each Department ](DepartFreq.png)
+
+![](Year_Frequency.png)
+
+![](Art Medium Frequency.png) 
+
+
+## Observations the photos 
+
+The initial works found in art before the common era (BCE) use fatness as a descriptor for people and animals. Such as the photos found below. 
+
+![](Seated hollow figure with helmet Las Bocas[BCE Fat].jpeg)
+![](Gilt bronze ring Greek [BCE Fa].jpeg)
+
+From my observations the MET most as artwork about fatness from the 18th to the 19th century. These works use fatness as a character flaw to describe wealthy elites or nations that are hoarding. 
+
+![](19th century.jpeg)
+![](Entry, or Lord Fat Cheeks (Entrée, ou Milord-Gorju) [19th].jpeg)
+
+
 <!-- 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
