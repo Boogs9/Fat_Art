@@ -31,7 +31,7 @@ The initial works found in art before the common era (BCE) use fatness as a desc
 ![Gilt bronze ring Greek](BCE.1.png)
 
 
-From my observations the MET most as artwork about fatness from the 18th to the 19th century. These works use fatness as a character flaw to describe wealthy elites or nations that are hoarding. 
+From my observations the MET most as artwork about fatness from the 18th to the 20th century. These works use fatness as a character flaw to describe wealthy elites or nations that are hoarding. 
 
 ![](19.2.png)
 
