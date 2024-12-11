@@ -15,13 +15,13 @@ Here are some graphs about the distribution of fat artwork in the MET's digital 
 
 ![](ArtMF.png) 
 
-The table below shows the most frequent mediums used for each century. Note that the number of artworks in each century varies drastically, from one to 42. 
+The table below shows the most frequent mediums used for each century. Note that the number of artworks in each century varies drastically, from one to 42 artworks. 
 
 
 ![](Cent_Tab.png)
 
 
-## Observations the photos 
+## Observations from Photos 
 
 The initial works found in art before the common era (BCE) use fatness as a descriptor for people and animals. Such as the photos found below. 
 
@@ -31,11 +31,15 @@ The initial works found in art before the common era (BCE) use fatness as a desc
 ![Gilt bronze ring Greek](BCE.1.png)
 
 
-From my observations the MET most as artwork about fatness from the 18th to the 20th century. These works use fatness as a character flaw to describe wealthy elites or nations that are hoarding. 
+The MET has the most fat artwork from the 18th to the 20th century. These works use fatness as a character flaw to describe wealthy elites or nations that are hoarding. 
 
 ![](19.2.png)
 
 ![Entry, or Lord Fat Cheeks,Entrée, ou Milord-Gorju](19.1.png)
+
+## Medium Examples
+
+Below are examples of the different art mediums found in the query. 
 
 
 <!-- 
