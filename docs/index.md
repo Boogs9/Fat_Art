@@ -16,6 +16,8 @@ Here are some graphs about the distribution of fat artwork in the MET's digital 
 ![](ArtMF.png) 
 
 The table below shows the most frequent mediums used for each century. Note that the number of artworks in each century varies drastically, from one to 42. 
+
+
 ![](Cent_Tab.png)
 
 
