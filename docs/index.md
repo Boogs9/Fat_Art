@@ -20,13 +20,17 @@ Here are some graphs about the distribution of fat artwork in the MET's digital 
 
 The initial works found in art before the common era (BCE) use fatness as a descriptor for people and animals. Such as the photos found below. 
 
-![](Seated hollow figure with helmet Las Bocas[BCE Fat].jpeg)
-![](Gilt bronze ring Greek [BCE Fa].jpeg)
+![Seated hollow figure with helmet](BCE.2.png)
+
+
+![Gilt bronze ring Greek](BCE.1.png)
+
 
 From my observations the MET most as artwork about fatness from the 18th to the 19th century. These works use fatness as a character flaw to describe wealthy elites or nations that are hoarding. 
 
-![](19th century.jpeg)
-![](Entry, or Lord Fat Cheeks (Entrée, ou Milord-Gorju) [19th].jpeg)
+![](19.2.png)
+
+![Entry, or Lord Fat Cheeks,Entrée, ou Milord-Gorju](19.1.png)
 
 
 <!-- 
