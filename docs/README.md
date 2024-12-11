@@ -1,125 +1,22 @@
 
+Fat Art at the MET
+
 This is a collection of fatness represented in museums.
 
-The rationale behind this project is to explore the frequency and art mediums used to represent fatness in museums.
+The rationale behind this project is to explore the frequency and art mediums that use fatness in the artwork. This project explores the meaning of fatness over time in the MET's digital collections. 
 
-For this project, I used the request library to make API calls, pandas to set up data frames, and Matplotlib to analyze data and display images of the art.
+Workflow
+For this project, I used the following libraries; 
+- Requests to make API calls
+- Pandas to set up data frames and clean the data pulled from the API calls. 
+- Seaborn to visualize data from multiple data frames. 
+- Matplotlib to analyze data and display images of the art.
 
-Someone might build on this work if they're interested in the representation of fat people in art and they can use this as a springboard to critique cultural institutions.
+Further Uses 
+Someone might build on this work if they're interested in the representation of fat people in art. They can use this to interrogate the historical shifts in the meaning of fatness as well as which narratives of fatness are overrepresented by cultural institutions like the Met. Through this project, I found the most representations of fatness in the MET when the work used fatness as a stand-in for the greed or laziness of wealthy elites. Someone could take my project and rework the code to produce a better organization of the images of the work and their meanings of fatness. Charting the artwork and its meanings over time, whether it's currently on display, and who is represented.      
 
-# The Time machine theme
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/time-machine/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/time-machine/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-time-machine.svg)](https://badge.fury.io/rb/jekyll-theme-time-machine)
-
-*Time machine is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/time-machine), or even [use it today](#usage).*
-
-![Thumbnail of Time machine](thumbnail.png)
-
-## Usage
-
-To use the Time machine theme:
-
-1. Add the following to your site's `_config.yml`:
-
-    ```yml
-    remote_theme: pages-themes/time-machine@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
-
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
-
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
-
-## Customizing
-
-### Configuration variables
-
-Time machine will respect the following variables, if set in your site's `_config.yml`:
-
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
-
-Additionally, you may choose to set the following optional variables:
-
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
-
-### Stylesheet
-
-If you'd like to add your own custom styles:
-
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
-
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
-
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
-
-### Layouts
-
-If you'd like to change the theme's HTML layout:
-
-1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/time-machine/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/time-machine/blob/master/_layouts/default.html).
-2. For more extensive changes, [copy the original template](https://github.com/pages-themes/time-machine/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-3. Create a file called `/_layouts/default.html` in your site
-4. Paste the default layout content copied in the first step
-5. Customize the layout as you'd like
-
-### Customizing Google Analytics code
-
-Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
-
-### Overriding GitHub-generated URLs
-
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
-
-1. Look at [the template source](https://github.com/pages-themes/time-machine/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
-
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
-
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
-
-## Roadmap
-
-See the [open issues](https://github.com/pages-themes/time-machine/issues) for a list of proposed features (and known issues).
-
-## Project philosophy
-
-The Time machine theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
-## Contributing
-
-Interested in contributing to Time machine? We'd love your help. Time machine is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
-
-### Previewing the theme locally
-
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
-
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/time-machine`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
-
-### Running tests
-
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+File List 
+* Python Notebook [MET_Api_(Fat_in_Art)_.ipynb, contains all the code I used for this project 
+* MET_fat_ART.csv This CSV is the initial data frame I created after my API call. 
+* MET_fat_ART_cleaned - MET_fat_ART (3).csv This is the CSV file with reformatted dates done in Google Sheets to remove BCE, century, and date ranges. After this new file contains all numerical data for the dates column. 
