@@ -7,6 +7,9 @@ This project explores the representation of fatness in the MET API.
 ![The Fat Kitchen by Pieter van der Heyden ](main-image.jpeg)
 
 
+Here are some graphs about the distribution of fat art work in the MET's digital collection. 
+
+![Number of Fat Art Woorks in Each Department ]()
 <!-- 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
