@@ -1,5 +1,5 @@
 
-#Fat Art at the MET
+# Fat Art at the MET
 
 This is a collection of fatness represented in museums.
 
